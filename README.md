@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on  Data associated skilled guys
 - 🤔 I’m looking for help with 
 - 💬 Ask me about python and sql
-- 📫 How to reach me: md.sahabuddin.rhaju@gmail.com
+- 📫 How to reach me: md.saha1997@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Origin of 'Big Data': Coined in 1997 by NASA scientists, "Big Data" referred to data too large for standard databases. Today's data engineers handle even larger volumes.
               Data Lakes vs. Data Warehouses: Data engineers build 'Data Lakes' to store vast amounts of raw data and 'Data Warehouses' for organized, processed data.
