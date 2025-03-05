@@ -1,5 +1,5 @@
 **mdsahabuddin01/mdsahabuddin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on PowerBi and SQL
+- 🔭 I’m currently working on Javascript, PowerBi and SQL
 - 🌱 I’m currently learning skills related to Data Analysis
 - 👯 I’m looking to collaborate on Data associated skilled guys
 - 💬 Ask me about python and sql
